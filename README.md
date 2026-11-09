@@ -24,7 +24,7 @@ This project is designed as a practical data exploration and storytelling exerci
 
 - City-by-city comparison of public transit convenience across U.S. cities
 - Transit convenience scoring framework
-- Exploratory data analysis using Python
+- Exploratory data analysis using Python 
 - Visual summaries of transit quality and performance
 - Comparison across small, medium, and large cities
 - Reproducible notebook workflow for analysis and presentation
